@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me:
 
-- 🎯 **Currently focused on:** Frontend development and building responsive web applications
-- 🌱 **Learning:** Modern JavaScript frameworks and advanced CSS techniques
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, and UI/UX principles
+- 🎯 **Currently focused on:** Fullstack development and building responsive web applications
+- 🌱 **Implementing:** Modern JavaScript frameworks and advanced CSS techniques
+- 💬 **Ask me about:** HTML, CSS, JavaScript,and UI/UX principles
 - 📫 **Reach me at:** [tanaymuk2810@gmail.com](mailto:tanaymuk2810@gmail.com)
-- ⚡ **Fun fact:** I love solving coding challenges on LeetCode!
+
 
 ---
 
